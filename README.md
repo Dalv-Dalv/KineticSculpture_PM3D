@@ -1,3 +1,3 @@
 # KineticSculpture_PM3D
 Preview:
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3R4YWRkMjJjejg4YWxiaWpwNXByYmJndGxxMWlpOHNpeHJmcThoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ou49gKwWPHVYMmyCsI/giphy.gif
+<video src="Preview.mp4" autoplay loop muted playsinline width="100%"></video>
